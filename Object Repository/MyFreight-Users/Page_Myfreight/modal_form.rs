@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>modal_form</name>
+   <tag></tag>
+   <elementGuidId>af3d4cc9-a131-4e94-8f17-f5bb0dbd6a4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[contains(@name,'form')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//form[contains(@name,'form')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form[contains(@name,'form')]</value>
+   </webElementProperties>
+</WebElementEntity>

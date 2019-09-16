@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>login
+set current customer
+existing address - addl item line</description>
+   <name>MyFreight - Call 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>276cffa9-6dbb-48df-9a95-19a5ebda977a</testCaseGuid>
+</TestCaseEntity>

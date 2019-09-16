@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>New normal consignment</description>
+   <name>Myfreight - New Consignment - existing receiver address - 1 item with DG</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30df2d4a-04e4-4c3c-bdc7-b0fd74b903e4</testCaseGuid>
+   <variable>
+      <defaultValue>'hey'</defaultValue>
+      <description></description>
+      <id>a66f597f-6628-4d30-adb0-50c2c58a7ec1</id>
+      <masked>false</masked>
+      <name>strReference</name>
+   </variable>
+   <variable>
+      <defaultValue>'Bill'</defaultValue>
+      <description></description>
+      <id>aa2464f7-d651-4bbc-9bdf-875a84106e1c</id>
+      <masked>false</masked>
+      <name>strAddrSearchTerm</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>6687689c-ac2e-489f-b665-d4b94d8e424c</id>
+      <masked>false</masked>
+      <name>Item1Quantity</name>
+   </variable>
+   <variable>
+      <defaultValue>'22'</defaultValue>
+      <description></description>
+      <id>b0f258e7-89e2-4362-a1dc-62519891b6d2</id>
+      <masked>false</masked>
+      <name>Item1Length</name>
+   </variable>
+   <variable>
+      <defaultValue>'24'</defaultValue>
+      <description></description>
+      <id>60b0c275-e70d-4d7c-8a7b-aad356ca1e2a</id>
+      <masked>false</masked>
+      <name>Item1Width</name>
+   </variable>
+   <variable>
+      <defaultValue>'15'</defaultValue>
+      <description></description>
+      <id>33251433-84d2-4d49-92cc-b43c43d4960c</id>
+      <masked>false</masked>
+      <name>Item1Height</name>
+   </variable>
+   <variable>
+      <defaultValue>'5'</defaultValue>
+      <description></description>
+      <id>106288a7-a899-4d6d-bca4-eb57bd10c2f4</id>
+      <masked>false</masked>
+      <name>Item1DeadWeight</name>
+   </variable>
+   <variable>
+      <defaultValue>'1980'</defaultValue>
+      <description></description>
+      <id>ff4633ba-1446-4a93-9123-8a61ce60fbb2</id>
+      <masked>false</masked>
+      <name>Item1DG_UN</name>
+   </variable>
+</TestCaseEntity>

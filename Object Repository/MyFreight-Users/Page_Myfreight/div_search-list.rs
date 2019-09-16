@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_search-list</name>
+   <tag></tag>
+   <elementGuidId>820d258a-fe70-4f79-b45e-178a861156e0</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-list</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;custom-search-form&quot;)/div[@class=&quot;container input-append ng-scope&quot;]/ul[@class=&quot;typeahead dropdown-menu ng-isolate-scope&quot;]/li[@class=&quot;ng-scope active&quot;]/a[@class=&quot;ng-scope&quot;]/div[@class=&quot;search-list&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

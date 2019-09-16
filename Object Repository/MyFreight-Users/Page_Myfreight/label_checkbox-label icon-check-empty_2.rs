@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_checkbox-label icon-check-empty_2</name>
+   <tag></tag>
+   <elementGuidId>5472e7b2-661f-46f4-bfd9-0ea5d4519fda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html[1]/body[1]/div[1]/div[3]/form[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[8]/div[1]/label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox-label icon-check-empty</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>dangerous-goods-toggle-1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>checkbox-watch</name>
+      <type>Main</type>
+      <value>item.has_dangerous_goods</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ng-app&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;ng-scope new-consignment-container&quot;]/form[@class=&quot;ng-pristine ng-scope ng-valid-mask ng-valid-date ng-valid-date-disabled ng-valid-pattern ng-invalid ng-invalid-maxlength&quot;]/div[@class=&quot;row section-body&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;span24 consignment-items ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;item span24&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;span-hazardous&quot;]/div[@class=&quot;dangerous-goods-toggle ng-scope&quot;]/label[@class=&quot;checkbox-label icon-check-empty&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

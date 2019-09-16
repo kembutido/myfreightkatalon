@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_typeahead dropdown-DG-UN-num</name>
+   <tag></tag>
+   <elementGuidId>421afe25-f08c-436c-a7e7-5c06adc7b6a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]//div[2]//div[1]//div[2]//div[2]//div[2]//ul[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>typeahead dropdown-menu ng-isolate-scope</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>matches</name>
+      <type>Main</type>
+      <value>matches</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>active</name>
+      <type>Main</type>
+      <value>activeIdx</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>select</name>
+      <type>Main</type>
+      <value>select(activeIdx)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>query</name>
+      <type>Main</type>
+      <value>query</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>position</name>
+      <type>Main</type>
+      <value>position</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>template-url</name>
+      <type>Main</type>
+      <value>template/dg_type_search_result.html</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-style</name>
+      <type>Main</type>
+      <value>{display: isOpen()&amp;&amp;'block' || 'none', top: position.top+'px', left: position.left+'px'}</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ng-app&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;ng-scope new-consignment-container&quot;]/form[@class=&quot;ng-scope ng-valid-mask ng-valid-date ng-valid-date-disabled ng-valid-pattern ng-invalid ng-invalid-maxlength ng-dirty ng-valid-parse&quot;]/div[@class=&quot;row section-body&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;span24 consignment-items ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;item span24&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;row ng-scope&quot;]/div[@class=&quot;span-un-number&quot;]/ul[@class=&quot;typeahead dropdown-menu ng-isolate-scope&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
